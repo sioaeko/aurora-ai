@@ -5,6 +5,10 @@
   "framework": "vite",
   "routes": [
     {
+      "src": "/aurora-favicon.svg",
+      "dest": "/aurora-favicon.svg"
+    },
+    {
       "src": "/assets/(.*)",
       "dest": "/assets/$1"
     },
@@ -14,4 +18,4 @@
       "status": 200
     }
   ]
-} 
+}
