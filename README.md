@@ -1,8 +1,8 @@
-# 🌈 Prism Chat
+# 🌈 Aurora AI
 
 <div align="center">
   
-  <img src="public/aurora-favicon.svg" alt="Prism AI Logo" width="120" height="120">
+  <img src="public/aurora-favicon.svg" alt="Aurora AI Logo" width="120" height="120">
 
   <p align="center">
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
@@ -51,8 +51,8 @@
 
 1. Clone repository
 ```bash
-git clone https://github.com/sioaeko/prism-chat.git
-cd prism-chat
+git clone https://github.com/sioaeko/aurora-ai.git
+cd aurora-ai
 ```
 
 2. Install dependencies
@@ -109,7 +109,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-Project Link: [https://github.com/sioaeko/prism-chat](https://github.com/sioaeko/prism-chat)
+Project Link: [https://github.com/sioaeko/aurora-ai](https://github.com/sioaeko/aurora-ai)
 
 ---
 

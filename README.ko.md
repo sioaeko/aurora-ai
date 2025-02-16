@@ -1,8 +1,8 @@
-# 🌈 Prism Chat
+# 🌈 Aurora AI
 
 <div align="center">
   
-  <img src="public/aurora-favicon.svg" alt="Prism AI 로고" width="120" height="120">
+  <img src="public/aurora-favicon.svg" alt="Aurora AI 로고" width="120" height="120">
 
   <p align="center">
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
@@ -51,8 +51,8 @@
 
 1. 리포지토리 클론
 ```bash
-git clone https://github.com/sioaeko/prism-chat.git
-cd prism-chat
+git clone https://github.com/sioaeko/aurora-ai.git
+cd aurora-ai
 ```
 
 2. 의존성 설치
@@ -109,7 +109,7 @@ npm run dev
 
 ## 📧 연락처
 
-프로젝트 링크: [https://github.com/sioaeko/prism-chat](https://github.com/sioaeko/prism-chat)
+프로젝트 링크: [https://github.com/sioaeko/aurora-ai](https://github.com/sioaeko/aurora-ai)
 
 ---
 
