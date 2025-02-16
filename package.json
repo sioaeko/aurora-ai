@@ -13,8 +13,7 @@
     "react-dom": "^18.2.0",
     "lucide-react": "^0.359.0",
     "react-markdown": "^9.0.1",
-    "remark-gfm": "^4.0.0",
-    "@types/node": "^20.11.24"
+    "remark-gfm": "^4.0.0"
   },
   "devDependencies": {
     "@types/react": "^18.2.0",
@@ -26,8 +25,6 @@
     "@tailwindcss/typography": "^0.5.10",
     "tailwind-scrollbar": "^3.1.0",
     "typescript": "^5.0.0",
-    "vite": "^4.0.0",
-    "@typescript-eslint/eslint-plugin": "^7.1.0",
-    "@typescript-eslint/parser": "^7.1.0"
+    "vite": "^4.0.0"
   }
 } 
